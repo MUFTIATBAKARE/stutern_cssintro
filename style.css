@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+#ordered1{
+    color: white;
+    
+}
+.ordered{
+    background-color: burlywood;
+}
+#unordered1{
+    color: pink;
+    
+}
+#unordered1 li{
+    padding: 30px;
+   
+}
+#ordered1 li{
+    padding: 30px;
+   
+}
+.unordered{
+    background-color: grey;
+}
+#list6{
+    text-transform: capitalize;
+}
